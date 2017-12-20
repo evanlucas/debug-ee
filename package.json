@@ -1,6 +1,6 @@
 {
   "name": "debug-ee",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "bin": {
     "debug-ee": "bin/cmd.js"
@@ -9,7 +9,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["debug", "events", "EventEmitter", "emitter"],
+  "keywords": [
+    "debug",
+    "events",
+    "EventEmitter",
+    "emitter"
+  ],
   "author": "Evan Lucas <evanlucas@me.com>",
   "license": "MIT",
   "dependencies": {
